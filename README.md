@@ -1,2 +1,2 @@
-# 100DaysOfCode with HTML and CSS
+#100DaysOfCode with HTML and CSS
 Day 1
